@@ -23,5 +23,6 @@ OR
 yarn serve
 ```
 
-
-
+Router path
+채팅목록 : /list
+채팅방 : /room/{id}
