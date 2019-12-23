@@ -2,9 +2,7 @@
 
 ## Demo 
 
-```markdown
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lz6knej_-_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+https://youtu.be/lz6knej_-_I
 
 ## Project setup
 
